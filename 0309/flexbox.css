@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+
+  /* flex-direction: row-reverse; */ /*거꾸로가기*/
+
+  flex-wrap: nowrap;
+  /* justify-content: flex-end; reverse 랑 헷갈리면 안됨 */
+  /* justify-content: space-between; */
+  /* justify-content: space-around; */
+  justify-content: space-evenly;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  margin-top: 20px;
+  margin-right: 20px;
+  font-size: 50px;
+}

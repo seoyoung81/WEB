@@ -1,0 +1,97 @@
+.contanier {
+  align-content: space-between;
+}
+
+.item {
+  background-color: red;
+  width: 200px;
+  height: 30px;
+  color: white;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  padding-left: 10px;
+}
+
+.round {
+  border-radius: 2px;
+}
+
+#signup {
+  height: 160px;
+}
+
+p {
+  display: center;
+  align-items: center;
+  justify-items: center;
+  font-size: 5px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 5px;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+h4 {
+  margin-top: 5px;
+}
+
+.item2 {
+  outline: solid rgb(180, 180, 180) 0.1px;
+  width: 200px;
+}
+
+.item3 {
+  outline: solid rgb(180, 180, 180) 0.1px;
+  width: 180px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.item4 {
+  outline: solid rgb(180, 180, 180) 0.1px;
+  width: 180px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.green {
+  margin-bottom: 30px;
+}
+
+.small {
+  width: 10px;
+  height: 10px;
+  margin: 10px;
+}
+
+.green {
+  font-size: 10px;
+  color: white;
+  background-color: rgb(17, 129, 64);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.blue {
+  color: blue;
+}
+
+.check {
+  display: flex;
+  font-size: 1px;
+  margin-right: 1px;
+  height: 25px;
+  line-height: 25px;
+}
+
+.information {
+  margin-right: 3px;
+}

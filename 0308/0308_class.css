@@ -1,0 +1,8 @@
+.my-class {
+  margin-top: 10px; /* mt*/
+  margin-bottom: 10px; /*mb*/
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100px;
+}

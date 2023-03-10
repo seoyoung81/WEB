@@ -1,0 +1,28 @@
+.header {
+  height: 100px;
+  width: 1000px;
+  background-color: pink;
+}
+
+.section-left {
+  height: 500px;
+  background-color: skyblue;
+  width: 300px;
+}
+
+.section-right {
+  height: 500px;
+  background-color: rgb(221, 185, 221);
+  width: 700px;
+}
+
+.footer {
+  height: 100px;
+  background-color: rgb(158, 218, 90);
+  clear: both; /* 이 다음 부터는 normal flow를 따르게 함*/
+  width: 1000px;
+}
+
+.left {
+  float: left;
+}
